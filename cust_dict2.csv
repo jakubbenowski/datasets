@@ -1,11 +1,4 @@
-
-
-
-
-
-
-
-Customer Identity,First Policy´s Year,Brithday Year,Educational Degree,Gross Monthly Salary,Geographic Living Area,Has Children (Y=1),Claims Rate
+Customer Identity,First Policys Year,Brithday Year,Educational Degree,Gross Monthly Salary,Geographic Living Area,Has Children (Y=1),Claims Rate
 1,1985,1982,2 - High School,2177,1,1,0.39
 2,1981,1995,2 - High School,677,4,1,1.12
 3,1991,1970,1 - Basic,2277,3,0,0.28
